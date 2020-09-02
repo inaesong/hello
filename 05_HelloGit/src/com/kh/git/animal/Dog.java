@@ -1,5 +1,5 @@
 package com.kh.git.animal;
 
-public class animalB {
+public class Dog {
 
 }
